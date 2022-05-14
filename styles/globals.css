@@ -1,3 +1,8 @@
+/**directives for including tailwindcss into directories*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
